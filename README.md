@@ -2,6 +2,9 @@
 pading(分页插件，基于jquery)，功能齐全
 
 
+<img src="img/QQ截图20170526104730.png" />
+
+
 #使用方法#
 
 
