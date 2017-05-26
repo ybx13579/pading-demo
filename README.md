@@ -26,10 +26,13 @@ pading(分页插件，基于jquery)，功能齐全
 ```
 <script type="text/javascript">
     $(".zxf_pagediv").createPage({
-        pageNum: 50,//总页码
-        current: 30,//当前页
-        backfun: function(e) {
-                //console.log(e);//回调
+        pageNum: 7,//总页码
+        current: 5,//当前页
+        shownum: 6,//每页显示个数
+        //activepage: "",//当前页选中样式
+        //activepaf: "",//下一页选中样式
+        backfun: function (e) {
+            //console.log(e);//回调
         }
     });
 </script>
