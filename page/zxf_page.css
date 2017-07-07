@@ -9,6 +9,7 @@ div.zxf_pagediv a{
 div.zxf_pagediv span,div.zxf_pagediv a{
 	display: inline-block;
 	box-sizing: border-box;
+    margin:0 4px;
 }
 span.disabled{
 	height: 35px;
@@ -49,11 +50,11 @@ span.disabled{
 	border: 1px solid #dfdfdf;
 	cursor: pointer;
 }
-.nextpage{
+/*.nextpage{
 	color: #d71f1b;
 	margin: 0 5px;
 	border: 1px solid #d71f1b;
-}
+}*/
 .current{
 	color: #ffffff;
 	background: #d71f1b;
