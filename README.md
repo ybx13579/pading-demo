@@ -5,7 +5,7 @@ pading(分页插件，基于jquery)，功能齐全
 <img src="img/1.png" />
 
 
-#使用方法#
+## 使用方法
 
 
 1、导入相关的css、js文件
